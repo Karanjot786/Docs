@@ -8,11 +8,6 @@ This document provides regular updates on the progress of the project titled "Py
 ## Introduction
 
 This project aims to develop a Python library and associated command-line tool for packaging and reusing cloud computing workload traces. The focus is on converting Research Object Crates (RO-Crates) into Task Execution Service (TES) and Workflow Execution Service (WES) payloads, and vice versa. This will enhance reproducibility and transparency of computational analyses on GA4GH-powered cloud infrastructures.
-Table of Contents
-
-    Overview
-    Introduction
-    Community Bonding Period
 
 # Table of contents
 1. [Overview](#Overview)
