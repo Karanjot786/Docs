@@ -17,7 +17,7 @@ Table of Contents
 # Table of contents
 1. [Overview](#Overview)
 1. [Introduction](#introduction)
-2. [Community Bonding Period](#paragraph1)
+2. [Community Bonding Period](https://karanjot786.github.io/Docs/Community_Bonding_Period)
 
 
 
