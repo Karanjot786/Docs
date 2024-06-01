@@ -11,9 +11,9 @@ This project aims to develop a Python library and associated command-line tool f
 
 # Table of contents
 1. [Overview](#Overview)
-1. [Introduction](#introduction)
-2. [Community Bonding Period](https://karanjot786.github.io/Docs/Community_Bonding_Period)
-
+2. [Introduction](#introduction)
+3. [Community Bonding Period](https://karanjot786.github.io/Docs/Community_Bonding_Period)
+4. [Schema Mapping Analysis](https://karanjot786.github.io/Docs/Schema_Mapping_Analysis)
 
 
 # Thanks you
