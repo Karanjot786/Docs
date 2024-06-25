@@ -6,7 +6,6 @@
   - Enhanced the project repository by updating the `README.md` and adding a `Dockerfile`.
   - Opened a PR titled `chore: package project`, which has now been merged.
 - **Conversion Functions**:
-  - Developed initial versions of `convert_tes_to_wrroc` and `convert_wes_to_wrroc` functions.
   - Opened a PR titled `chore: Set up CI pipeline` to establish a continuous integration workflow.
 - **Issue Management**:
   - Opened and actively managed several issues to guide project development:
